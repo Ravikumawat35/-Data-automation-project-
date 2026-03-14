@@ -1,0 +1,1 @@
+I would like to clarify that this was a completely innovative project within the company's context, as projects developed with this approach and through Python were not usual. Therefore, it was a proposal developed all by myself and it was my first project working with data.
